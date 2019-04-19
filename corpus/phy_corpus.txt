@@ -1,0 +1,271 @@
+An airplane accelerates down a runway at 3.20 m/s2 for 32.8 s until is finally lifts off the ground. Determine the distance traveled before takeoff.
+A car starts from rest and accelerates uniformly over a time of 5.21 seconds for a distance of 110 m. Determine the acceleration of the car.
+Upton Chuck is riding the Giant Drop at Great America. If Upton free falls for 2.60 seconds, what will be his final velocity and how far will he fall?
+A race car accelerates uniformly from 18.5 m/s to 46.1 m/s in 2.47 seconds. Determine the acceleration of the car and the distance traveled.
+A feather is dropped on the moon from a height of 1.40 meters. The acceleration of gravity on the moon is 1.67 m/s2. Determine the time for the feather to fall to the surface of the moon.
+Rocket-powered sleds are used to test the human response to acceleration. If a rocket-powered sled is accelerated to a speed of 444 m/s in 1.83 seconds, then what is the acceleration and what is the distance that the sled travels?
+A bike accelerates uniformly from rest to a speed of 7.10 m/s over a distance of 35.4 m. Determine the acceleration of the bike.
+An engineer is designing the runway for an airport. Of the planes that will use the airport, the lowest acceleration rate is likely to be 3 m/s2. The takeoff speed for this plane will be 65 m/s. Assuming this minimum acceleration, what is the minimum allowed length for the runway?
+A car traveling at 22.4 m/s skids to a stop in 2.55 s. Determine the skidding distance of the car (assume uniform acceleration).
+A kangaroo is capable of jumping to a height of 2.62 m. Determine the takeoff speed of the kangaroo.
+If Michael Jordan has a vertical leap of 1.29 m, then what is his takeoff speed and his hang time (total time to move upwards to the peak and then return to the ground)?
+A bullet leaves a rifle with a muzzle velocity of 521 m/s. While accelerating through the barrel of the rifle, the bullet moves a distance of 0.840 m. Determine the acceleration of the bullet (assume a uniform acceleration).
+A baseball is popped straight up into the air and has a hang-time of 6.25 s. Determine the height to which the ball rises before it reaches its peak. (Hint: the time to rise to the peak is one-half the total hang-time.)
+The observation deck of tall skyscraper 370 m above the street. Determine the time required for a penny to free fall from the deck to the street below.
+A bullet is moving at a speed of 367 m/s when it embeds into a lump of moist clay. The bullet penetrates for a distance of 0.0621 m. Determine the acceleration of the bullet while moving into the clay. (Assume a uniform acceleration.)
+A stone is dropped into a deep well and is heard to hit the water 3.41 s after being dropped. Determine the depth of the well.
+It was once recorded that a Jaguar left skid marks that were 290 m in length. Assuming that the Jaguar skidded to a stop with a constant acceleration of -3.90 m/s2, determine the speed of the Jaguar before it began to skid.
+A plane has a takeoff speed of 88.3 m/s and requires 1365 m to reach that speed. Determine the acceleration of the plane and the time required to reach this speed.
+A dragster accelerates to a speed of 112 m/s over a distance of 398 m. Determine the acceleration (assume uniform) of the dragster.
+With what speed in miles/hr (1 m/s = 2.23 mi/hr) must an object be thrown to reach a height of 91.5 m (equivalent to one football field)? Assume negligible air resistance.
+You start walking from a point on a circular field of radius 0.5 km and 1 hour later you are at the same point. a) What is your average speed for the whole journey? b) What is your average velocity for the whole journey?
+ A ball is rolled at a velocity of 12 m/sec. After 36 seconds, it comes to a stop. What is the acceleration of the ball?
+If a person walked at 2 m/s for 12 s he/she would travel a distance of ________.
+How long would it take to travel 50 km traveling at a speed of 10 km/hr?
+How far would you travel moving at 12 m/s for 3.00 minutes?
+How far will a car travel in 25 min at 12 m/s? 
+A UFO is traveling with a velocity of 3250 m/s. Suddenly the retro rocket is fired, the UFO slows to a stop with an acceleration whose magnitude is equal to 10 m/s2. What is the velocity of the UFO when the displacement of the craft is 215 km, relative to the point where the retro rocket began firing?
+A car accelerates at a rate of 0.6 m/s2. How long does it take for this car to go from a speed of 55 mi/h to 60 mi/h?
+A jalopy with an initial speed of 23.7 km/h accelerates at a uniform rate of 0.92 m/s2 for 3.6 s. Find the final speed and the displacement of the jalopy during this time.
+A bobsledder starting from rest accelerates uniformly down a 30 degree hill at 3.30 m/s2. How long will it take to reach the bottom of the hill if her change in elevation is 110 m?
+A jalopy is decelerated from 48 m/s to 12 m/s over 5 s. What is the displacement of the jalopy during this time?
+How much time will it take a jalopy, starting from rest, to reach a velocity of 24 m/s over a distance of 315 m?
+A jalopy travels on a long straight level road at 50 km/hr and then speeds up to 90 km/hr in 15 seconds. Calculate the jalopy's acceleration in m/s/s.
+What is the speed of a rocket that travels 9000 meters in 12.12 seconds?
+ What is the speed of a jet plane that travels 528 meters in 4 seconds?
+How far (in meters) will you travel in 3 minutes running at a rate of 6 m/s?
+How many seconds will it take for a satellite to travel 450 km at a rate of 120 m/s?
+What is the speed of a walking person in m/s if the person travels 1000 m in 20 minutes?
+A ball rolls down a ramp for 15 seconds. If the initial velocity of the ball was 0.8 m/sec and the final velocity was 7 m/sec, what was the acceleration of the ball ? 
+A meteoroid changed velocity from 1.0 km/s to 1.8 km/s in 0.03 seconds. What is the acceleration of the meteoroid?
+ The space shuttle releases a space telescope into orbit around the earth. The telescope goes from being stationary to traveling at a speed of 1700 m/s in 25 seconds. What is the acceleration of the satellite?
+ A ball is rolled at a velocity of 12 m/sec. After 36 seconds, it comes to a stop. What is the acceleration of the ball?
+A dragster in a race accelerated from stop to 60 m/s by the time it reached the finish line. Thedragster moved in a straight line and traveled from the starting line to the finish line in 8.0 sec. What was the acceleration of the dragster?
+Ben Rushin is waiting at a stoplight. When it finally turns green, Ben accelerated from rest at a rate of a 6.00 m/s2 for a time of 4.10 seconds. Determine the displacement of Ben's car during this time period.
+A rock is dropped from the garage roof from rest. The roof is 6 meter from the ground. Determine how long it takes the rock to hit the ground
+A projectile is shot upwards at 189 m/s from the height of 20 m off the ground. How long will it take the projectile to hit the ground?
+A hot-air baloon was hovering over a large public park. The operator of the baloon then makes the baloon begin to rise at the constant rate of 0.8 m/s. At some height fron the ground, the operator drops the rock from the basket. The rock takes 10.3 seconds to hit the gound. How high was the rock when it was released and what was its maximum height?
+ The boy drops the ball from a roof of the house which takes 3 seconds to hit the ground. Calculate the velocity before the ball crashes to the ground 
+John throws the ball straight upward and after 1 second it reaches its maximum height then it does free fall motion which takes 2 seconds. Calculate the maximum height and velocity of the ball before it crashes the ground. 
+An object does free fall motion. It hits the ground after 4 seconds. Calculate the velocity of the object after 3 seconds and before it hits the ground. What can be the height it is thrown? 
+The car which is initially at rest has an acceleration 7 m/s² and travels 20 seconds. Find the distance it covers during this period. 
+A rock is dropped off a cliff 115 meters high. How long does it take for the rock to reach the ground?
+Object thrown up Vi = 110 m/s, sketch a V vs t plot of the object  from the throw to the peak 
+A coin is dropped in a vacuum tube, find its displacement after .30  seconds. 
+A rocket is fired vertically upward with an initial velocity of 29 m/s. find the maximum altitude of the rocket take g = 10 m/s^2
+An object dropped on planet X falls 64 m in 4 seconds. Find the acceleration due to gravity on planet X.
+A ball is thrown upward from a position (y0)above the ground  with a velocity of 16 m/s. How long will it take for the stone to reach a point 10 m above the ground on its way
+A basketball player jumped straight up to grab a rebound. If she was in the air for 0.80 second, how high did she jump? 
+A stone is thrown vertically upward with a speed of 12.0 m/s from the edge of a cliff 70.0 m high. how long does it take to reach the bottom of the cliff?
+A car accelerates uniformly from rest at a rate of +10 m/s2. How far will the car travel in 4 seconds? 
+A car with an initial velocity of +6 m/s accelerates at a rate 2 m/s2. Find the cars final velocity after it travels 7 m from its initial position 
+A tennis ball is dropped from a roof 16 meters from the ground. How long does it take for the ball to reach the ground? 
+A hotdog cannon shoots a hotdog straight up in the air with an initial velocity of 30 m/s. How high will the hotdog fly? 
+While climbing a tree, you pick an apple and throw it straight down. After 1 second, the apple is traveling 18 m/s. How fast will the apple be traveling 3 seconds later? 
+From rest, a car accelerated at 8 m/s2 for 10 seconds. a) What is the position of the car at the end of the 10 seconds? b) What is the velocity of the car at the end of the 10 seconds? 
+With an initial velocity of 20 km/h, a car accelerated at 8 m/s2 for 10 seconds. a) What is the position of the car at the end of the 10 seconds? b) What is the velocity of the car at the end of the 10 seconds? 
+A car accelerates uniformly from 0 to 72 km/h in 11.5 seconds. What is the acceleration of the car in m/s?  What is the position of the car by the time it reaches the velocity of 72 km/h?
+A train brakes from 40 m/s to a stop over a distance of 100 m. a) What is the acceleration of the train? b) How much time does it take the train to stop? 
+A boy on a bicycle increases his velocity from 5 m/s to 20 m/s in 10 seconds. a) What is the acceleration of the bicycle? b) What distance was covered by the bicycle during the 10 seconds? 
+a) How long does it take an airplane to take off if it needs to reach a speed on the ground of 350 km/h over a distance of 600 meters (assume the plane starts from rest)? b) What is the acceleration of the airplane over the 600 meters? 
+What is the smallest distance, in meters, needed for an airplane touching the runway with a velocity of 360 km/h and an acceleration of -10 m/s2 to come to rest? 
+To approximate the height of a water well, Martha and John drop a heavy rock into the well. 8 seconds after the rock is dropped, they hear a splash caused by the impact of the rock on the water. What is the height of the well. (Speed of sound in air is 340 m/s). 
+A rock is thrown straight up and reaches a height of 10 m. a) How long was the rock in the air? b) What is the initial velocity of the rock? 
+A cannonball is shot upwards from the edge of a cliff with a speed of 10 m/s. It lands on the ground below the cliff 3.0 seconds later. We can ignore air resistance.What is the displacement of the cannonball? 
+A robot probe drops a camera off the rim of a 239 m high cliff on Mars, where the free-fall acceleration is –3.7 m/s^2. a. Find the time required for the camera to reach the ground. b. Find the velocity with which it hits the ground.
+On the moon, a feather is dropped from a height of 1.40 m. The acceleration of gravity on the moon is -1.67 m/s2. Determine the time it takes for the feather to fall to the surface of the moon.
+Dionte is riding the Giant Drop at Great America. If Dionte free-falls for 2.6 seconds:  a. What will be his final velocity?b. How far will he fall?
+If Lebron James has a vertical leap of 1.29 m, what is his take-off speed and his hang time (total time to move upwards to the peak and then return to the ground)?
+The observation deck of a skyscraper is 420 m above the street. Determine the time required for a penny to free-fall from the deck to the street below.
+7. A baseball is thrown straight up in the air with an initial velocity of 2 m/s. Draw a picture that shows the path of the ball as it goes up and comes down. Label the initial velocity, the velocity at max. height, and the acceleration of the ball.
+An object falls from a high building. Ignoring air resistance, what will its velocity be after 6 seconds of falling? 
+An object falls from a high building and hits the ground in 9.0 seconds. Ignoring air resistance, what is the distance that it fell? 
+During a tornado in 2008 the Peachtree Plaza Westin Hotel in downtown Atlanta suffered damage. Suppose a piece of glass dropped near the top of the hotel falling 215 meters. A.Ignoring air resistance, how long would it take the piece of glass to hit the ground? Ignoring air resistance, what will the velocity of the piece of glass be when it strikes the ground? 
+An object falls from the Transco Tower in Houston and takes 15 seconds to reach the ground. A. What is its velocity at impact if air resistance is ignored? How tall is the building? What is its acceleration at the 2nd second? What is its acceleration at the 5th second?  
+If the Transco Tower were actually 3,000 meters tall, how long would an object take to free-fall off of the top of the building? (ignoring air resistance) 
+Wil-E-Coyote drops a bowling ball off a cliff to try to catch the Roadrunner. The cliff is 132 m high. How long does it take the ball to fall to the ground? What is its impact velocity? How far does it fall in the first 3.0 seconds? How fast is it going at the end of 3.0 seconds? How long would it take the same ball to fall if the cliff was on the moon (g = 1.63 m/s2)?
+You drop your cell phone while in the bathroom in front of the mirror while the water is running in the sink below. If you are 0.45 meters above the sink, how long do you have before your cell phone is a gonner. 
+An object falls from a high building. Ignoring air resistance, what will its velocity be after 6 seconds of falling? 
+An object falls from a high building and hits the ground in 9.0 seconds. Ignoring air resistance, what is the distance that it fell? 
+During a tornado in 2008 the Peachtree Plaza Westin Hotel in downtown Atlanta suffered damage. Suppose a piece of glass dropped near the top of the hotel falling 215 meters. Ignoring air resistance, how long would it take the piece of glass to hit the ground? Ignoring air resistance, what will the velocity of the piece of glass be when it strikes the ground?
+I drop a penny from the top of the tower at the front of Fort Collins High School and it takes 1.85 seconds to hit the ground. Calculate the velocity in m/s after 1.10 seconds of freefall and calculate the velocity at impact in mi/hr.
+If I drop a watermelon from the top of one of the tower dorms at CSU, and it takes 3.34 seconds to hit the ground, calculate how tall the building is in meters and then convert into feet.
+You are walking in Paris alongside the Eiffel Tower and suddenly a croissant smacks you on the head and knocks you to the ground. From your handy dandy tourist guidebook you find that the height of the Eiffel Tower is 300.5 m. If you neglect air resistance, calculate how many seconds the croissant dropped before it tagged you on the head.
+During the latter part of your European vacation, you are hanging out at the beach at the gold coast of Spain. As you are laying in your chaise lounge soaking up the warm Mediterranean sun, a large glob of seagull poop hits you in the face. Since you got an  “A” in ICPE you are able to estimate the impact velocity at 98.5 m/s. Neglecting air resistance, calculate how high up the seagull was flying when it pooped.
+If you were to throw a large log over the edge of the Grand Canyon and it took 5.65 seconds to hit the ground, calculate the velocity of the log at impact in m/s and calculate the distance the log fell in feet.
+A tourist drops a rock from rest from a guard rail overlooking a valley. What is the velocity of the rock at 4.0 s? What is the displacement of the rock at 4.0 s?
+Suppose the tourist in question #1 instead threw the rock with an initial velocity of 8.0 m/s [down]. Determine the velocity and displacement of the rock at 4.0 s (Remember the vi is down and must become a -8.0 m/s)
+Suppose the tourist in question #1 instead threw the rock with an initial velocity of 8.0 m/s [up]. Determine the velocity and displacement of the rock at 4.0 s (Remember the viis up and must become a +8.0 m/s)
+A college student wants to toss a textbook to his roommate who is leaning out of a window directly above him. He throws the book upwards with an initial velocity of 8.0 m/s. The roommate catches it while it is travelling at 3.0 m/s [up]. a) How long was the book in the air? b) How far vertically did the book travel?
+A man is standing on the edge of a 20.0 m high cliff. He throws a rock vertically with an initial velocity of 10.0 m/s. a) How high does the rock go? (Remember that at its max height v = 0 m/s) b) How long does it take to reach its max height?
+How high was a brick dropped from if it falls in 2.5 seconds? 
+An apple falls out of a tree and takes 1.75 seconds to strike the ground. How high was the apple from the ground? 
+A high diver dives off a platform and strikes the water 2.857 seconds later. How high is the diving platform? 
+A trapeze artist misses the trapeze and falls into the net 9.2 meters below. How long will it take him to fall? 
+A plane drops a C.A.R.E. package to some needy people in the jungle from a height of 1000 m. How long will it take the package to strike the ground? 
+A book falls off a 1 meter tall table. How long will it take for the book to hit the floor? 
+A trapeze artist misses the trapeze and falls into the net 9.2 meters below. How long will it take him to fall? 
+A plane drops a C.A.R.E. package to some needy people in the jungle from a height of 1000 m. How long will it take the package to strike the ground? 
+A book falls off a 1 meter tall table. How long will it take for the book to hit the floor? 
+A rock is thrown out of a volcano. When it started to fall, it took 9.5 seconds to hit the ground. How fast was the rock traveling as it struck the ground? 
+Wyl-E-Coyote has missed the Road-Runner again and has fallen through a hole in the edge of a cliff. It takes him 4 seconds to strike the ground and go SPLAT. How fast is he going when he hits the sand below? 
+A glass falls from a table top and smashes on the floor 0.6 seconds later. How fast is it traveling when it begins to break? 
+A hail stone falls from a cloud and strikes a car 11 seconds later. How fast is the stone traveling as it dents the roof? 
+A rock is thrown out of a volcano. When it started to fall, it took 9.5 seconds to hit the ground. How high was the rock when it began to fall? 
+A glass falls from a table top and smashes on the floor 0.6 seconds later. How high is the table? 
+A hail stone falls from a cloud and strikes a car 11 seconds later. How high is the cloud? 
+Wyl-E-Coyote has missed the Road-Runner again and has fallen through a hole in the edge of a cliff. It takes him 4 seconds to strike the ground and go SPLAT. How high is the cliff? 
+To crack open a crab, a sea gull drops it from a height of 18 meters. How many seconds does it take the crab to fall? 
+A plane is flying at 9000 meters when one bolt works its way loose and falls to the ground. How long do you have to avoid being hit by it? 
+How fast is a penny traveling as it hits the sidewalk if it was dropped from the top of the Empire State Building which is 1250 feet high? (Ignore air resistance and 1 foot = 0.305 meters) 
+In a classic ``Seinfeld'' episode, Jerry races one of his old high school friends. Upon hearing a car backfire, Jerry leaves 0.5 seconds before the other guy. Jerry's maximum acceleration is 2.00 m/s/s. His friend's is 2.20 m/s/s (this link may help). a.  How long will it take the friend to overtake Jerry? b.  How far from the start are they when they are even? c.  What are their respective velocities when they are even?
+A jogger with a constant velocity of 4.0 meters/second runs by a stationary dog. After 1 second, the dog decides to chase the jogger. The dog accelerates at 1.5 m/s/s. (this link may help)  a. How long (time) does it take the dog to catch the jogger?  b. How far away from the spot where the dog was sitting has the jogger gone when she is caught by the dog?
+A jalopy is decelerated from 48 m/s to 12 m/s over 5 s. What is the displacement of the jalopy during this time?
+How much time will it take a jalopy, starting from rest, to reach a velocity of 24 m/s over a distance of 315 m?
+At a recent regatta in California, The San Diego Crew Classic, results from the Men's Cal-Visitors Cup Grand Final with their times are as follows: Oregon State U 6:17.12 U.C. San Diego 6:24.55 Columbia 6.25.71 U.C. Irvine 6:27.37 Wichita State 6:30.34 U.C. Santa Barbara 6:31.56  The course is 2000 m long. Assuming constant velocity for all boats, how far behind OSU In meteres, was each boat when OSU crossed the finish line?
+Barbara commutes from Castle Rock to Colorado Springs, every day—about 45 miles straight south on the interstate, where the speed limit is 75 mph. If she drives at 85 mph, how much time does she save on her daily round trip? How does this compare to the 20 minutes she spends talking to the policeman who gives her a speeding ticket?
+An electron is emitted with a velocity of 5x10^6 m/s. It is accelerated by an electric field in the direction of initial velocity at 3x10^14 m/s2. If its final velocity is 7x10^6 ms^-1, calculate the distance covered by the electron
+A truck on a straight road starts from rest and accelerates at 2.0 m/s 2 until it reaches a speed of 20 m/s. Then the truck travels for 20 s at a constant speed until the brakes are applied, stopping the car in a uniform manner in an additional 5.0 s. How long is the truck in motion and what is its average velocity during the motion? 
+While driving home from school you travel at 95 km/h for 130 km then slow to 65 km/h. You get home in 3 hours and 20 min. How far is your hometown from school and what is the average speed? 
+A person takes a trip, driving with a constant speed of 89.5 km/h, except for a 22 min rest stop. If the person’s average speed is 77.8 km/h, how much time is spent on the trip and how far does the person travel? 
+From t = 0 to t = 4.21 min, a man stands still, and from t = 4.21 min to t = 8.42 min, he walks briskly in a straight line at a constant speed of 1.91 m/s. In the time interval 1.00 min to 5.21 min what are a. his average velocity  b. his average acceleration?
+A bird watcher meanders through the woods, walking 0.684 km due east, 0.486 km due south, and 3.56 km in a direction 61.7 degrees north of west. The time required for this trip is 1.124 h. Determine the bird watcher’s (a) displacement and (b) average velocity. 
+A truck driver is in a rush to pick up a load of eggs. She travels 40 miles at 80 mi/h, returning with a full truck along the same route at 40 mi/h. What was her average speed for the trip? 
+A race car driver sets out on a 100-mile race. At the halfway marker, her pit crew radios that she has averaged only 50 mi/hr. How fast must she drive over the remaining distance in order to average 100 mi/hr for the entire race? 
+In reaching her destination, a backpacker walks with an average velocity of 1.34 m/s, due west. This average velocity results because she hikes for 6.44 km with an average velocity of 2.68 m/s, due west, turns around, and hikes with an average velocity of 0.447 m/s, due east. How far east did she walk? 
+You jog at 6 mi/h for 5 mi, then you drive another 5 mi in a car. With what average speed must you drive if your average speed for the entire 10 miles is to be 10.8 mi/hr? 
+The distance of one lap around an oval track is 1.50 km. If a biker going at a constant speed makes one lap in 1.10 min, what is the speed of the bike and biker in meters per second? 
+A UFO is traveling with a velocity of 3250 m/s. Suddenly the retro rocket is fired, the UFO slows to a stop with an acceleration whose magnitude is equal to 10 m/s2 . What is the velocity of the UFO when the displacement of the craft is 215 km, relative to the point where the retro rocket began firing? 
+ A vehicle traveling 60 km/h approaches an intersection just as the traffic light turns yellow. The yellow light lasts only 2.0 s before turning to red. The distance to the near side of the intersection is 30 m and the intersection is 15 m wide. The vehicle can decelerate at -6.4 m/s 2 , whereas it can accelerate from 60 km/h to 70 km/h in 3.0 s.  a. If the brakes are applied, how far will the vehicle travel before stopping? If the vehicle accelerates, how far will it travel before the light turns red?
+A car accelerates at a rate of 0.6 m/s2 . How long does it take for this car to go from a speed of 55 mi/h to 60 mi/h? 
+A jalopy with an initial speed of 23.7 km/h accelerates at a uniform rate of 0.92 m/s 2 for 3.6 s. Find the final speed and the displacement of the jalopy during this time. 
+A jet acquires a lift-off speed of 112 m/s in 20.0 s, starting from rest and traveling due east. What are the magnitude and direction of its average acceleration? 
+A bobsledder starting from rest accelerates uniformly down a 30 degree hill at 3.30 m/s 2 . How long will it take to reach the bottom of the hill if her change in elevation is 110 m? 
+Two markers separated by 0.30 km placed on a road. A gas guzzler passed the first marker with a velocity of 5.0 m/s [E] and passed the second marker with a velocity of 33.0 m/s [E]. Calculate the car’s average acceleration. 
+How much time will it take a jalopy, starting from rest, to reach a velocity of 24 m/s over a distance of 315 m? 
+A jalopy travels on a long straight level road at 50 km/hr and then speeds up to 90 km/hr in 15 seconds. Calculate the jalopy’s acceleration in m/s/s. 
+A kangaroo is moving with a velocity of 5.0 m/s at an angle of 30º North of East. The kangaroo, 4.0 seconds later, is moving with a velocity of 6.0 m/s at an angle of 45º South of East. What is the kangaroo’s average acceleration? 
+ driver traveling 40 km/h sees a child run onto the road 13 m ahead of his jalopy. He applies the brakes, and the jalopy decelerates uniformly at 8.0 m/s/s. The driver’s reaction time is 0.25 s. Will the jalopy hit the child? 
+A jalopy traveling 70 km/hr comes to a stop at 120 m. Find the jalopy’s acceleration. 
+A car starts from rest at a stop light and reaches 20 m/s in 3.5 s. Determine the acceleration of the car.
+A car starts from rest and after 20 seconds its velocity becomes 108 kmh. Find the acceleration of the car.
+A car starts from rest at a stop light and reaches 20 m/s in 3.5 s. Determine the acceleration of the car.
+What is the acceleration of a car that can reach a speed of 360 km/h from rest within 24 seconds. What is the distance traveled by the car in this duration of time?
+A stationary car with a mass of 1500 kilograms reaches a velocity of 15 metersvper second 5 seconds after starting. What is the cars acceleration? How much force was required to reach this...
+A car can accelerate from 0 to 60 mph in 15 seconds. What is its acceleration?
+A car accelerates from 0 km/h to 100 km/h in 5 seconds. It can decelerate at 5 m/s, if the driver applies the brakes fully. What is the acceleration of the car?
+A car is traveling at 150 km/h. It comes to a crossroad and has to stop. The driver applies brakes at a distance of 50 m from the place where he has to stop and is just able to manage. What is the acceleration due to the application of the brakes. 
+An airplane accelerates down a run-way at 3.20 m/s2 for 32.8 s until is finally lifts off the ground. Determine the distance traveled before take-off. 
+A race car accelerates uniformly from 18.5 m/s to 46.1 m/s in 2.47 seconds. Determine the acceleration of the car. 
+An engineer is designing a runway for an airport. Several planes will use the runway and the engineer must design it so that it is long enough for the largest planes to become airborne before the runway ends. If the largest plane accelerates at 3.30 m/s2 and has a takeoff speed of 88.0 m/s, then what is the minimum allowed length for the runway? 
+A student drives 4.8-km trip to school and averages a speed of 22.6 m/s. On the return trip home, the student travels with an average speed of 16.8 m/s over the same distance. What is the average speed (in m/s) of the student for the two-way trip? (Be careful.) 
+Rennata Gas is driving through town at 25.0 m/s and begins to accelerate at a constant rate of -1.0 m/s2 . Eventually Rennata comes to a complete stop. Represent Rennata's accelerated motion by sketching a velocity-time graph. Use kinematic equations to calculate the distance which Rennata travels while decelerating. Then use the velocity-time graph to determine this distance. 
+Otto Emissions is driving his car at 25.0 m/s. Otto accelerates at 2.0 m/s2 for 5 seconds. Otto then maintains a constant velocity for 10 more seconds. Determine the distance Otto traveled during the entire 15 seconds. (Consider using a velocity-time graph.) 
+Chuck Wagon travels with a constant velocity of 0.5 mile/minute for 10 minutes. Chuck then decelerates at -.25 mile/min2 for 2 minutes. Determine the total distance traveled by Chuck Wagon during the 12 minutes of motion. (Consider using a velocity-time graph.) 
+a Train travelled 100 km at speed of 133 km/h, how long did the train move? 
+A ball is thrown upward from a position  (y0) above the ground with a velocity of 8 m/s. Find y0 if it took 3.0 seconds for the ball to hit the ground.
+In 2009, Usain Bolt of Jamaica set a world record of 9.58 s in the 100-m dash.  What was his average speed?  
+In a well-known novel a person travels around the world in 80 days.  What is the person’s approximate average speed during the adventure if Earth’s circumference is 40,075 km? What is the approximate average velocity for the entire trip?
+An airplane accelerates down a runway at 3.20 m/s2 for 32.8 s until it finally lifts off the ground. Determine the distance traveled before take-off.
+A car starts from rest and accelerates uniformly for 5.21 seconds over a distance of 110 m.  Determine the acceleration of the car.
+The observation deck of a skyscraper is 420 m above the street. Determine the time required for a penny to free-fall from the deck to the street below.
+Chuck is riding the Giant Drop at Great America. The Giant Drop takes passengers up the top of a tall tower and lets them go from rest.  If Chuck free-falls for 2.6 seconds, what will be his final velocity before stopping at the bottom of the ride?
+An ant craws 120 cm east in 15 seconds, then turns and crawls 120 cm west in 24 more seconds.  What is the ant’s average speed and what is its average velocity?
+You travel 380 km in a car moving with an average velocity of 60 km/hr.  How long will the trip take?  
+A bullet leaves a rifle with a muzzle velocity of 521 m/s. While accelerating through the barrel of the rifle, the bullet moves a distance of 0.840 m. Determine the acceleration of the bullet. 
+A bullet is moving with a speed of 367 m/s when it enters a lump of moist clay. The bullet penetrates a distance of 0.0621 m. Determine the acceleration of the bullet while moving into the clay. 
+A plane has a take-off speed of 88.3 m/s and requires 1365 m to reach that speed. Determine the acceleration of the plane and the time taken to reach the take-off speed.
+A stone is dropped into a deep well and is heard to hit the water 3.41 s after being dropped. Determine the depth of the well.  (hint: the depth of the well is the same as the distance the stone fell)
+If Michael Jordan has a vertical leap of 1.29 m, what is his take-off speed? (hint: take-off speed in this case would be vi)
+On the moon, a feather is dropped from a height of 1.40 m. The acceleration of gravity on the moon is 1.67 m/s2. Determine the time it takes for the feather to fall to the surface of the moon.
+A car reaches an acceleration 0.926 m/s2 in 15 seconds with a final velocity of 15 m/s? Find the initial velocity
+A kangaroo can jump over an object of height 2.5 meters. (a) Calculate the vertical speed when it leaves the ground and (b) how long is it in the air?
+a kangaroo jumps to a vertical height of 2.8 m. how long was it in the air before returning to earth.
+A car with an initial speed of 23.7 km/h accelerates at a uniform rate of 0.92 m/s2 for 3.6 s.  Find the final speed and the displacement of the car during this time.
+An automobile with an initial speed of 4.30 m/s accelerates uniformly at the rate of 3.0 m/s2.  Find the final speed and the displacement after 5.0 s. 
+A car starts from rest and travels for 5.0 s with a uniform acceleration of -1.5 m/s2.  What is the final velocity of the car?  How far does the car travel in this time interval? 
+A driver of a car traveling at 15.0 m/s applies the brakes, causing a uniform acceleration of -2.0 m/s2.  How long does it take the car to accelerate to a final speed of 10.0 m/s?  How far has the car moved during the braking period? 
+A car accelerates in a straight line from rest at the rate of 2.3 m/s 2 . What is its final velocity after 55 m? What is its time?
+An aircraft has a liftoff speed of 120 km/hr. a) What minimum constant acceleration does this require if the aircraft is to be airborne after a take off run of 240 m? How long does it take the aircraft to become airborne?
+A gull soaring in a straight line with an initial velocity of -32 m/s accelerates at a rateof +3.0 m/s 2 for 9 seconds. What is the gull’s velocity at the end of the acceleration
+A car traveling initially at +7.0 m/s accelerates at the rate of +0.80 m/s2 for a distanceof 245 m. a) What is its velocity at the end of the acceleration? What is its velocity after it accelerates for 125 m ? What is its velocity after it accelerates for 67 m?
+A driver of a car traveling at -15 m/s applies the brakes, causing a uniform accelerationof +2 m/s2 . If the brakes are applied for 2.5 seconds what is the velocity of the car at theend of the braking period? How far has the car moved during the braking period?
+A car starts from rest and travels for 5 seconds with a uniform acceleration of– 1.5 m/s2 . What is the final velocity of the car.? How far does the car travel in this timeinterval?
+An automobile with an initial speed of 4.30 m/s accelerates at the rate of 3 m/s2 . Findthe final speed and displacement after 5 seconds.
+A car with an intial speed of 23.7 km/hr accelerates at a uniform rate of 0.92 m/s2 for3.6 sec. Find the final speed and displacement of the car during this time.
+The speed of a car is reduced from 90 km/hr to 36 km/hr in 5 s. What is a distance travelled by the car during this time interval
+The speed of a car is reduced from 90 km/hr at 10 seconds to 36 km/hr in 15 s. What is a distance travelled by the car during this time interval
+The velocity of a body decreases from 25 m/s to 5 m/s in 4 s. Determine the retardation of the body. 
+The velocity of a body increases from 2 m/s to 18 m/s in 8 s. Determine the acceleration of the body. 
+A car has an acceleration of 3 m/s². If the initial velocity of the car is 5 m/s, determine: (a) How far the car travels in 6 s; (b) How far the car has travelled when it reaches a velocity of 30 m/s. 
+A man walks 500 m due east in 300 s and then a further 400 m in 320 s in the same direction. Determine his velocities for the 500 m, the 400 m and his average velocity for the whole journey. 
+A car travels between 2 towns 60 miles apart in 2 hours. What is its average speed? 
+If a person can walk with an average speed of 2 meters/second, how far will they walk in 4 minutes? 
+An electron is emitted with a velocity of 5e+6 m/s. It is accelerated by an electric field in the of initial velocity at 3e+14 m/s2. If the final velocity is 7e6 m/s, calculate the distance covered by the electron
+ It takes 0.210 s for a dropped wrench to travel past a poster that is 1.35 meters tall. How high above the top of the poster was the wrench released? 
+A rock is dropped from the top of an overhang and strikes the ground 6.5 seconds later. How high is the overhang in meters? 
+ A peso is dropped into a well and it falls for 3 seconds before hitting the water. What is the peso’s average speed during its 3 second drop? 
+How long does it take a ball to reach the ground 7.0 m below, if it is thrown straight up with an initial speed of 2.00 m/s? 
+You throw a ball downward from a window at a speed of 2.0 m/s. The ball accelerates at 9.8 m/s 2 . a. How fast is it moving when it hits the sidewalk 2.5 m below? b. If you throw the same ball up instead of down, how fast is it moving when it hits the sidewalk?
+A ball is thrown straight up with a speed of 4.6 m/s. How long does the ball take to reach its maximum height? 
+ A round is launched straight up at 460 m/s. How long will it take it to reach its apex and how high will that be? (air resistance may be neglected.)
+4. What height will a dart achieve 7 seconds after being blown straight up at 50 m/s?
+5. An apple thrown straight upward rises to 24 m above its launch point. At what height has apple’s speed decreased to one-half of its initial value?
+A stone is flung straight up from a point 1.50 m above the ground and with an initial speed of 19.6 m/s. a. What is the stone’s maximum height above the ground? b. How much time passes before the stone hits the ground?
+A blimp is hovering above the ground. When the pilot drops a sandbag overboard, the blimp rises with a constant velocity of 2 m/s. At the moment the sandbag hits the ground, the blimp is 50 m above the ground. a. How far above the ground was the blimp when the sandbag was dropped? When the sandbag is halfway to the ground, what is its acceleration?
+A helicopter is ascending vertically with a speed of 5.00 m/s. At a height of 105 m above the ground, a package is dropped from a window. How much time does it take for the package to reach the ground?
+9. A rock is thrown up at an initial velocity of 9.8 m/s. What is the time it takes to hit the ground?
+A golf ball is projected with a horizontal velocity of 30 m/s and takes 4.0 seconds to reach the ground. (Assume g= 10 m/s² and the air resistance is negligible.) Calculate: the height from which the golf ball was projected. The magnitude of the golf balls’ vertical velocity component just before hitting the ground. The horizontal velocity component. Resultant velocity just before the object strikes the ground. The horizontal component of the object’s displacement. 
+Erica kicks a soccer ball 12 m/s at an angle of 40 degrees above the horizontal. a. What is the ball’s maximum height? b. What is the ball’s maximum range? c. With what velocity does the ball strike the ground? d. What are the ball’s acceleration and velocity at the top of its rise?
+1. Erica kicks a soccer ball 12 m/s at horizontally from the edge of the roof of a building which is 30.0 m high. a. When does it strike the ground? b. With what velocity does the ball strike the ground?
+A car drives straight off the edge of a cliff that is 54 m high. The police at the scene of the accident note that the point of impact is 130 m from the base of the cliff. How fast was the car traveling when it went over the cliff?
+3. A ball thrown horizontally at 22.2 m/s from the roof of a building lands 36 m from the base of the building. How tall is the building?
+4. A boy kicked a can horizontally from a 6.5 m high rock with a speed of 4.0 m/s. How far from the base of the rock the can land?
+5. A pilot flying a constant 215 km/h horizontally in a low-flying helicopter, wants to drop secret documents into his contact"s open car which is traveling 155 km/h in the same direction on a level highway 78.0 m below. At what angle (to the horizontal) should the car be in his sights when the packet is released?
+A ski jumper travels down a slope and leaves the ski track moving in the horizontal direction with a speed of 25 m/s. The landing incline falls off with a slope of 33º. a. How long is the ski jumper air borne? b. Where does the ski jumper land on the incline?
+7. Stones are thrown horizontally with the same velocity. One stone lands twice as far as the other stone. What is the ratio of the height of the taller building to the height of the shorter?
+8. A fleck moving horizontally to the right at 2.5 m/s begins to accelerate downward at 0.75 m/s 2 . Where is the fleck 4.0 s later?
+In example 2, if Erica kicked the ball from the edge of the roof of a building which is 30.0 m high. a. When does it strike the ground? b. How far from the building does it land?
+2. A daredevil decides to jump a canyon of width 10 m. To do so, he drives a motorcycle up an incline sloped at an angle of 15 degrees. What minimum speed must he have in order to clear the canyon?
+3. A ball is kicked from a point 38.9 m away from the goal. The crossbar is 3.05 m high. If the ball leaves the ground with a speed of 20.4 m/s at an angle of 52.2º to the horizontal a. By how much does the ball clear or fall short of clearing the crossbar? b. What is the vertical velocity of the ball at the time it reaches the crossbar?
+4. A rocket is accelerating vertically upward at 30 m/s 2 near Earth’s surface. A bolt separates from the rocket. What is the acceleration of the bolt?
+5. Water is leaving a hose at 6.8 m/s. If the target is 2 m away horizontally, What angle should the water have initially?
+6. A 5.0 kg brick lands 10.1 m from the base of a building. If it was given an initial velocity of 8.6 m/s [61º above the horizontal], how tall is the building?
+7. A spear is thrown upward from a cliff 48 m above the ground. Given an initial speed of 24 m/s at an angle of 30º to the horizontal, a. how long is the spear in flight? b. what is the magnitude and direction of the spear’s velocity just before it hits the ground?
+8. A projectile is shot from the edge of a cliff 125 m above ground level with an initial speed of 65.0 m/s at an angle of 37º above the horizontal. Determine the magnitude and the direction of the velocity at the maximum height.
+9. A projectile leaves a gun at the same instant that the target is dropped from rest. If the projectile is initially aimed straight at the target, will it hit the target?
+10. A basketball is lobbed toward a hoop 3.05 m above the floor. If released 2 m above the floor 10 m from the basket and at a 45 degree angle, how fast must the basketball be thrown so that it goes through the hoop?
+11. Dick is tossing chocolates up to Jane’s window from 8.0 m below her window and 9.0 m from the base of the wall. If the chocolates are traveling horizontally through the open window, how fast are they going through her window?
+12. A projectile has an initial velocity of 15.0 m/s at an angle of 30 degrees above the horizontal. What is the location of the projectile 2.0 seconds later?
+13. If a ball is kicked with an initial velocity of 25 m/s at an angle of 60° above the ground, what is the "hang time"?
+14. A water balloon hits a target 26 m away, at the same height as the release point. The horizontal component of the initial velocity was 5 m/s. What was the vertical component of the initial velocity? What was the launch angle?
+15. A soccer ball leaves a cliff 20.2 m above the valley floor, at an angle of 10 degrees above the horizontal. The ball hits the valley floor 3.0 seconds later. What is the initial velocity of the ball? What maximum height above the cliff did the ball reach?
+16. A flea stands 2.00 m from a dog’s haunches .55 m in height. Jumping at an angle of 32 degrees, what initial speed must the flea have to reach her new home?
+17. A bullet hit a target 301.5 m away. What maximum height above the muzzle did the bullet reach if it was shot at an angle of 25 degree to the ground?
+18. A 3.00 kg parcel is dropped out of a window from a height of 176.4 m. Wind exerts an average 12.0 N force on the parcel away from the building. How long is the parcel in the air? Where does it land? What is its impact velocity?
+19. A projectile is shot from the ground at an angle of 60 degrees with respect to the horizontal, and it lands on the ground 5 seconds later. Find: a. the horizontal component of initial velocity b. the vertical component of initial velocity c. Find its initial speed
+20. An arrives 30 m away horizontally and 5 m above the point from which it was launched. It reaches this point 3 seconds after it was launched. Find the horizontal component of initial velocity, b. Find the vertical component of initial velocity find c. the vertical component of the impact velocity d.find the horizontal component of the impact velocity
+21. Find the minimum initial speed of a champagne cork that travels a horizontal distance of 11 meters.
+22. During practice, a soccer player kicks a ball, giving it a 32.5 m/s initial speed. It travels the maximum possible distance before landing down field. (a) How much time does the ball spend in the air? (b) How far did the ball travel?
+23. A projectile was launched 64° above the horizontal, attaining a height of 10 m. What is the projectile’s initial speed?
+24. At what launch angle will the range of a projectile equal its maximum height?
+25. A boy kicks a soccer ball directly at a wall 41.8 m away. The ball leaves the ground at 42.7 m/s with an angle of 33.0 degrees to the ground. What height will the ball strike the wall?
+26. What is the relationship between the maximum height of the projectile, the projectile’s range, and the launch angle?
+27. A projectile is fired with an initial velocity of 120 m/s at an angle above the horizontal. If the projectile’s initial horizontal speed is 55 m/s, then at what angle was it fired?
+28. A boulder rolls 35 m down a hill, starting from rest and accelerating at 3.06 m/s 2 . The boulder then rolls off a 45 m high vertical cliff, launching at 19.0° below the horizontal. (a) How far from the cliff’s base does the boulder land? (b) How much time does the boulder spend falling?
+29. A 1.00-kg rock is thrown at 5.00 m/s straight up. What is the net force acting on the rock when it is 75% the way to the top of its trajectory? (Assume air resistance is negligible at this point.)
+A stone is dropped into a deep well of depth 58 m and the sound is heard to hit the water 3.41 s after being dropped. Determine the initial speed of the stone
+A ball was thrown up from a building of height 20 meters and it took 10 seconds to reach the highest point. How high will reach and Find the velocity when it reaches the ground
+A ball is thrown vertically upwards from ground and a student gazing out of window sees it moving upward past him at 5 m/s. The window is 10 m above the ground.Find the maximum height of the ball.
+A ball is thrown upward from a bridge with an initial velocity of 4.9 m/s. It strikes water after 2 s. If g = 9.8 m/s2 What is the height of the bridge ?
+A ball is dropped from the roof of a tower of height h.The total distance covered by it in the last second of its motion is equal to the distance covered by it in first three seconds.The value of h is ( g = 10 m/s2 )
+A ball is thrown from a bridge horizontally. It spends 8 s in air and has a range of 50 m. How tall was the bridge? How fast was the ball traveling vertically just before it hit? How fast was the ball traveling horizontally just before it hit?
+A ball is thrown from a 75 m tall bridge and travels 150 m away. How long did it stay in the air? How fast was it traveling both vertically and horizontally just before it hit the ground? 
+A girl runs straight off a cliff with a horizontal velocity of 2.64 m/s and falls for 1.48 s before landing on the ground. What is the horizontal component of her velocity (in m/s) just before she reaches the ground? How far from the cliff (in m) does the girl hit the ground?
+A car drives straight off the edge of a cliff that is 54 m high. The police at the scene of the accident note that the point of impact is 130 m from the base of the cliff. How fast was the car traveling when it went over the cliff?
+Example: A juggler throws a ball straight up with an initial speed of 10 m/s. With what speed would she need to throw a second ball, half a second later, starting from the same position as the first ball, so that the second ball hits the first ball at the top of the first ball's trajectory? 
+A rocket  is fired  vertically  and  ascends  with  a constant vertical acceleration   of 20 m/s2   for 1.0 min. Its fuel is then all used and  it continues   as  a free-fall   particle.   (a)  What  is the  maxi- mum  altitude  reached?  (b) What  is the total time elapsed  from take off  until  the rocket  strikes  the Earth?  (Ignore  the variation of g with  altitude). 
+The Earth orbits the Sun at a distance of 150000000 km. How long does it take light from  the Sun to reach the Earth?  Speed of light in space = 3.0E8 m/s.
+The cyclist in Figure 2.15 is travelling at 15 m/s. She brakes so that she doesn’t collide with the wall. Calculate the magnitude of her deceleration. distance 18 m 
+88. Bicycle A bicycle accelerates from 0.0 m/s to 4.0 m/s in 4.0 s. What distance does it travel? (Level 1) 
+ A weather balloon is floating at a constant height above Earth when it releases a pack of instruments. (Level 1) a. If the pack hits the ground with a downward velocity of −73.5 m/s, how far did the pack fall? b. Calculate the distance the ball has rolled at the end of 2.2 s 
