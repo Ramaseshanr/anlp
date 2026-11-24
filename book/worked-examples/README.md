@@ -62,6 +62,8 @@ Read the chapter first. The notebook is the check, not the explanation.
 | [`alignment`](https://colab.research.google.com/github/Ramaseshanr/anlp/blob/master/book/worked-examples/alignment.ipynb) | Preference tuning, in three tables | [21. Adaptation and Alignment](https://nlp.jcrlabz.com/book/alignment/) |
 | [`bleu`](https://colab.research.google.com/github/Ramaseshanr/anlp/blob/master/book/worked-examples/bleu.ipynb) | BLEU, ROUGE and their blind spots | [23. Evaluating Generated Text](https://nlp.jcrlabz.com/book/evaluation/) |
 | [`quantization`](https://colab.research.google.com/github/Ramaseshanr/anlp/blob/master/book/worked-examples/quantization.ipynb) | What rounding a weight costs | [25. Efficiency: Smaller, Cheaper, Faster](https://nlp.jcrlabz.com/book/efficient/) |
+| [`summarization`](https://colab.research.google.com/github/Ramaseshanr/anlp/blob/master/book/worked-examples/summarization.ipynb) | Extractive scores, ROUGE and a false claim | [26. Summarisation](https://nlp.jcrlabz.com/book/summarization/) |
+| [`responsible`](https://colab.research.google.com/github/Ramaseshanr/anlp/blob/master/book/worked-examples/responsible.ipynb) | Measuring a model's harms | [27. Responsible NLP](https://nlp.jcrlabz.com/book/responsible/) |
 
 ## About this file
 
