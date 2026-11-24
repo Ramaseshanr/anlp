@@ -19,6 +19,10 @@ take it on trust.
 `Archive/` holds the demonstration notebooks from earlier runs of the course.
 They are kept for reference and are not maintained.
 
+## Licence
+
+The code in this repository, including the notebooks, is licensed under the MIT licence, see `LICENSE`. The text of the book and the slide decks are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). The full terms are at <https://nlp.jcrlabz.com/terms/#licence>. Copyright is held by Ramaseshan Ramachandran.
+
 ## Running an example
 
 Click any notebook below and it opens in Colab. Choose **Runtime > Run all**.
